@@ -6,7 +6,6 @@ Strength, Agility (both reflex and agility), Wits (both knowledge and wisdom), H
 ## Human
 
 * **Thief/Footpad/Cutpurse** 2, 3, 2, 2 these small time crooks might be desperate or foolish to rob a band of armed travellers, or hoping a slight of hand they can be away with the goods before anyone notices
-
 * **Brigand/highwayman/Pirate** 3, 3, 2, 2 these are real hardened criminals, while less coordinated than professional soldiers they can be just as deadly.
 * **Peasant** 2, 2, 2, 2 not natural warrior, a mob of peasants can still be a danger when riled up or protecting their homes and family. On Arc it can be a real frontier law nobody is going to be asking any questions if a village takes their own justice on travellers who take advantage of the laws of hospitality
 * **Town Guard** 3, 3, 2, 2 these are part time soldiers put to use as a rough kind of law enforcement

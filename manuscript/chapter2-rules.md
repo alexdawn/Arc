@@ -29,7 +29,7 @@ sailing in calm conditions. Bartering or conducting diplomacy with someone frien
 
 ## Critical Rolls and Twists and Complications
 
-A double 1 is always a success and double 6 is always a failure, unless in the circumstance described by the special rule *always a chance.
+A double 1 is always a success and double 6 is always a failure, unless in the circumstance described by the special rule *always a chance*.
 
 **Always a Chance:** Unless the target number is 1 or 12, in which case after rolling a double 1 or a double 6, roll a third dice. If the final result is 111 then it is a miraculous hail mary success and a 666 (a truly an unlucky number) that can humble even the most competent.
 
@@ -109,7 +109,7 @@ The skill hierarchy is Area -> Group -> Skill. Player characters do not gain XP 
   * Sleight of hand (DEX)(pickpocketing, cheating at cards)
   * Lying (HRT)(Bluffing at cards)
 * Strategise
-  * strategically outwit another, not necessarily just on the battlefield (INT)(e.g. chess, politicking or business)
+  * Battle strategically outwit another, not necessarily just on the battlefield (INT)(e.g. chess, politicking or business)
 * Social
   * Diplomacy (HRT/KNO)(getting rich and important people to like you or in a formalised setting)
   * Charm (HRT)(getting common people to like you or in an informal settings)
@@ -248,24 +248,34 @@ No experience is gained from passive (e.g. passive observation) or savings throw
 
 This means levelling up a skill starts easy but gets increasingly hard to reach the max level.
 
-The other way of gaining XP is using the study or practice downtime activities. Learning is best to improve low skills. While, practice is the best way of gaining XP for a PC’s good skills.
+The other way of gaining XP is using the study or practice downtime activities. Learning is best to improve low skills. While, practice is the best way of gaining XP for a PC’s good skills.(How does the mechanics work?)
 
 ## Stratagems
 
-Are either individual or group planned or organised. During a rest, a group of PCs can prep a minor stratagem, or for downtime a PC can prep a major stratagem.
+Are either individual or group planned or organised. During a rest, a group of PCs can prep a minor stratagem, or with a day or more (typically in downtime) PC can prep a major stratagem.
 
-### Major Stratagem
+Stratagems are a prearranged plan between the party members that are too complex to enact in an impromptu manner.
+The players come up with a sequence of actions, then plan leader make an appropriate skill roll (generally a Mental or Intellectual skill)
+any number of PCs are allowed to assist.
 
-### Minor Stratagem
+A minor stratagem can have 3 actions, while a major stratagem can have 6 action and another 3 per day spent planning.
+
+For meeting the TN and each value better than the target number the party gets a Plan Point (PP) for minor stratagem and two
+for a major stratagem.
+
+While enacting the plan any player aware of the plan making a skill roll, in a manner consistent with the plan, can use a PP to re-roll.
+A character not involved in a plan can be brought up to speed with a minor stratagem in 10 minutes, and a major plan in an hour per day spent planning.
 
 ## Opposed weaknesses
 
-Sometimes an attribute works against someone. A strong PC might break a weak plank of wood they stand on, or a knowledgeable player distracted by a riddle.
+Sometimes an attribute works against someone. A strong PC might break a weak plank of wood they stand on, or an intelligent character distracted by a riddle.
 Someone with a high heart value will struggle with their morals to murder someone in cold blood and are more susceptible to mental trauma. In these situations invert the attribute by taking 5 minus the attribute value.
 
 ## HP and Morale
 
-Health Points (HP) is a measure of a PC's physical energy to carry on the fight and avoid deadly injury, while morale is the PC metal energy. If HP drops to zero, the PC rolls for a critical injury, while if Morale Points (MP) drops to zero, the PC rolls for a trauma.
+Health Points (HP) is a measure of a PC's physical energy to carry on the fight and avoid deadly injury, while morale is the PC metal energy. If HP drops to zero, the PC is exhausted and rolls for a critical injury, while if Morale Points (MP) drops to zero, the PC rolls for a trauma.
+
+If a character looses HP or MP while at zero instead they will take a critical injuries or trauma roll.
 
 A normal character will have HP equal to their strength, and morale equal to their heart.
 
@@ -372,9 +382,11 @@ Ranged combat makes a roll to hit, against their skill as a TN applying advantag
 Then resolve the duals in any order, to determine who wins a duel with a roll off 2D6 minus their strength plus weapons skill, the lowest value wins, draws nobody wins. For 2:1 and 3:1 rolls everyone and taking the lowest value for each side.
 
 **Complications in multiple combats**
+
 In a multiple combat there is a chance for multiple combatants to be hit not just the loosing side, if one of the combatants rolls a complication and scores higher than the opposing side (i.e. when in a 1:1 situation they would have lost) the combatant with the complication takes attack damage in addition to the loosing side taking attack damage.
 
 **Keep it speedy**
+
 To keep things speedy in larger battles against low level opponents, a GM can use a duelling TN instead of making roll off. Use the lowest TN if the enemies are a mix.
 
 The winner deals damage unless they were attempting ranged combat, and possible critical injury if they rolled a double 1 (or double 2 with some weapons) or if the loser rolled a double 6. Other double digits the complication is the winner (both in the case of draws) also exhausted by the move, losing 1HP as well.
@@ -385,25 +397,54 @@ Armour can absorb the first 1-3 points of damage depending on how good it is.
 
 **Example** Jim has a 3 armour, he takes a blow for 5 damage, 3 is absorbed by the armour and Jim looses 2HP.
 
-If a PC or friendly or neutral NPC is reduced to zero HP, everyone who witnesses it loses one MP. If a character dies after being reduced to zero HP lose an additional MP.
+If a PC or friendly or neutral NPC is reduced to zero HP, everyone who witnesses it loses one MP. If a character dies after being reduced to zero HP, witnesses lose an additional MP.
 
 ## Zero HP and Dying
 
-When a PC drops to zero HP, they become exhausted and all combat actions are at disadvantage. If a PC takes a hit while at zero HP they are now incapacitated dying
+When a PC drops to zero HP, they become exhausted, take a critical injury and if still standing all combat actions are at disadvantage. If a PC takes a hit while at zero HP they will take another critical injury.
 
-For NPCs use simplified rules where they are dead or dying (as narratively appropriate) when they hit zero HP.
+For mob NPCs use simplified rules where they are dead or dying (as narratively appropriate) when they hit zero HP.
 
 ## Critical Injury
 
 Deal double damage and roll for critical injury when the winning duellist rolls a 11 (or 22 for some weapons)
 
-| Roll  | Effect Sharp | Effect Blunt |
-| 2-4   | The target drops an item GMs choice | " |
+|  2D6  | Effect Sharp | Effect Blunt |
+| ----- | ------------ | ------------ |
+| 2     | Adrenaline surge gain 1HP | " |
+| 3-4   | The target drops an item GMs choice | " |
 | 6-7   | The target drops unconscious (but otherwise stable) | " |
 | 8-9   | The target gains the bleeding effect | target is winded (loses a round) |
 | 10    | The target loses a limb | limb is crushed and broken |
 | 11    | The target drops to 0HP and dying | " |
 | 12    | The target dies instantly | " |
+
+## Traumatic Experience
+
+When a player drops to zero MP, roll on the panic table. All skill rolls become disadvantaged
+
+ | 2D6 | Panic Effect |
+ | --- | ------ |
+ |   2 | Catharsis - the PC transcends the moment gain 1 Heart (and max morale), and refills morale |
+ |   3 | Shakes/Heavy Breathing - Lose 1 morale if the PC has any, skill rolls become disadvantaged for a round |
+ |   4 | dumbfounded - lose the next action |
+ |   5 | Scream - Restore 1 morale, everyone friendly who hears loses 1 morale |
+ |   6 | Flight next action must be to run or flee |
+ |   7 | Unfocussed - Skill rolls are disadvantaged, cannot gain XP or level up skills |
+ |   8 | Fight - Must attack the nearest character until one or the other is at 0HP |
+ |   9 | slightly scarred - re-roll D3 on the permanent metal trauma table|
+ |  10 | scarred - re-roll D6 on the permanent metal trauma table |
+ |  11 | Numbed - the PC loses one Heart (and max morale) permanently |
+ |  12 | Catatonic - the experience is too much, drop unconscious |
+
+ | 1D3/D6 | permanent metal trauma |
+ |------- | ---------------------- |
+ |   1 | Depressed - semi-permanent affect, regain morale slower, skill rolls disadvantaged as if 0MP until you reach max morale again |
+ |   2 | Sullen/Pessimistic - the PC cannot benefit from the skills or abilities from other characters to boost morale |
+ |   3 | Phobia - In future roll panic when confronted with a similar situation |
+ |   4 | Alcoholism - you must drink every day |
+ |   5 | Amnesia - Knowledge based skills revert to zero skill level |
+ |   6 | Recluse - The PC will end adventuring at the next opportune moment, replace with a new PC, the old one will retire to permanently uptake their downtime profession or find one in a town/village. The character will remain friendly/helpful to other PC but will absolutely not accept further adventures. If blackmailed or otherwise forced against their will the character will take daily panic rolls for the duration of adventuring. |
 
 ## Stealth and ambush
 
@@ -414,6 +455,7 @@ If the hidden party beats the searcher they avoid detection or launch an ambush,
 Roll stealth (worst of the attackers) vs observation (best of the defenders) for a surprise attack. Assistance rolls are not allowed.
 
 Apply advantage or disadvantage for both:
+
 * If there is good cover or suitably coloured clothing, there is advantage, if both double advantage. If there is a lack of cover, or the hiding party has lights/torches, roll disadvantage.
 * If the defenders are expecting an attack or have equipment such as: night vision, motion detection, animal or drone scouts, roll advantage. If both double advantage.
 * If their vision is impaired through darkness or weather such as fog roll disadvantage.
@@ -438,6 +480,7 @@ Sooner or later you will be in foreign lands and of need of a hand. While the an
 *TN = Social + Merch/Diplomacy + size of request - offering*
 
 Request/Offering modifiers:
+
 * Small +/- 0
 * Medium +/- 1
 * Large +/- 2
@@ -450,6 +493,7 @@ In both cases the diplomacy barter roll depends on the size of the request, how 
 ## Downtime
 
 The categories are at the GM discretion, certain actives may be undertaken in urban or rural environments just at a disadvantage. Each activity can gain currency, XP, gossip or items
+
 * Urban activities
   * Work profession - collect coin and XP in appropriate skill
   * run an inn or shop or market - Learn gossip and collect coin
@@ -472,7 +516,7 @@ The categories are at the GM discretion, certain actives may be undertaken in ur
   * Mining - Gain ore/stone
   * Pilgrimage - Gossip with other travellers, prayer roll at destination
   * Inn keeping - Learn gossip and collect coin
-* Anywhere
+* Anywhere:
   * train or practice skill - Fail a roll and gain XP equal to days passed, succeed a roll and gain a skill or talent
   * Craft item, artwork, map or book - pass the respective craft roll to create an item (need coin or the raw materials)
   * Study Artefact - Pass a decipher artefact roll to learn of it's function, fail and something disastrous might happen
@@ -488,7 +532,7 @@ See the items section for the list
 
 Ancient stones, ancient pyramids, a vast spiralled pit, a grand bridge or viaduct, a wooded valley and stream with a metal structure and many skeletons. Sunken cities. Arc is vast and mysterious, it would take a thousand lifetimes to even fully explore a small part of it.
 
-There are many travellers speaking of the impressive or impossible, and most journeys into the continent will show enough that suggests there is much more out there to be discovered.
+There are many travellers speaking of the impressive or impossible, and most journeys into a continent's interior will show enough that suggests there is much more out there to be discovered.
 
 These are mythical technologies, that there are plenty of stories about but may or make not exist (at GMs discretion if you introduce these technologies they may be game breaking):
 Portals, time travel, freezing time, teleportation, FTL, transmutation

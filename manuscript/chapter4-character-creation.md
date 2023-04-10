@@ -2,9 +2,24 @@
 
 ## Attributes
 
-Give your players two options: random attribute or attribute allocation
+Give your players two options: random attribute or attribute allocation.
 
 Attributes first: generate them randomly, more realistic as nobody picks the circumstance of their birth, for each attribute roll (2D6 and divide by 3) + 1, rounding up.
+
+| 2D6 | Attribute |
+| --- | --------- |
+|   2 |         2 |
+|   3 |         2 |
+|   4 |         3 |
+|   5 |         3 |
+|   6 |         3 |
+|   7 |         4 |
+|   8 |         4 |
+|   9 |         4 |
+|  10 |         5 |
+|  11 |         5 |
+|  12 |         5 |
+
 
 Archetype first: is more fun for players who have a character in mind. Players have 18 points and must put between 2 and 5 points in each skill.
 
