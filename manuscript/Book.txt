@@ -1,2 +1,8 @@
-chapter1-the-basics.txt
-chapter2-writing-in-markua.txt
+chapter1-themes.md
+chapter2-rules.md
+chapter3-items.md
+chapter4-character-creation.md
+chapter5-the-world.md
+chapter6-npcs.md
+chapter7-adventure.md
+chapter8-character-sheet.md

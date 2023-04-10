@@ -63,89 +63,89 @@ The skill hierarchy is Area -> Group -> Skill. Player characters do not gain XP 
 ### Physical
 
 * Close Combat
-  * Spear
-  * Sword
-  * Axe
-  * Unarmed
+  * Spear (STR)
+  * Sword (STR)
+  * Axe (STR)
+  * Unarmed (STR)
 * Ranged
-  * Archery
-  * Stones
-  * Javelin
+  * Archery (STR)
+  * Stones (STR)
+  * Javelin (STR)
 * Mobility
-  * Sprinting
-  * Athletics/Climbing
-  * Swimming
-  * Riding
-  * Stealth
+  * Sprinting (REF)
+  * Athletics/Climbing (REF)
+  * Swimming (REF)
+  * Riding (REF)
+  * Stealth (REF)
 
 ### Practical
 
 * Movement
-  * Navigation (this is the skill of maintaining a sense of direction despite lack of visibility from darkness, bad weather or twists and turns)
-  * Travel (managing, aches, blisters, maintaining comfortable footwear, keeping a backpack, painner, or wagon well-packed and organized or anything learned that helps on long journeys)
-  * Scouting/Exploration
+  * Navigation (INT)(this is the skill of maintaining a sense of direction despite lack of visibility from darkness, bad weather or twists and turns)
+  * Travel (KNO)(managing, aches, blisters, maintaining comfortable footwear, keeping a backpack, painner, or wagon well-packed and organized or anything learned that helps on long journeys)
+  * Scouting/Exploration (INT)
 * Survival
-  * First Aid/Combat Surgery, this is the hands on skill, for stabilising the wounded (See *Intellectual->Medical* skill for diagnosis)
-  * bushcraft (the art of surviving in the wild making fires, shelters, collecting water and food)
-  * Herb lore
-  * Mountaineering
+  * First Aid/Combat Surgery (KNO), this is the hands on skill, for stabilising the wounded (See *Intellectual->Medical* skill for diagnosis)
+  * bushcraft (KNO)(the art of surviving in the wild making fires, shelters, collecting water and food)
+  * Herb lore (KNO)
+  * Mountaineering (KNO)
 * Nautical
-  * Sailing
-  * Rope-craft (knot) making or other boating activity)
+  * Sailing (REF)
+  * Rope-craft (KNO)knot making
 * Craft
-  * Jewellery
-  * Woodworking
-  * Metalworking
-  * Stone working
+  * Jewellery (DEX)
+  * Woodworking (DEX)
+  * Metalworking (DEX)
+  * Stone working (DEX)
 * Artisan
-  * Construction (smaller constructs with scavenged materials may fall under *bush-craft*)
-  * Farming
-  * Fishing
+  * Construction (KNO) (smaller constructs with scavenged materials may fall under *bush-craft*)
+  * Farming (KNO)
+  * Fishing (DEX)
 
 ### Mental (these skills require intuition into someone else’s metal state)
 
 * Deception
-  * Heist/Con
-  * Sleight of hand (pickpocketing, cheating at cards)
-  * Lying (Bluffing at cards)
+  * Heist/Con (HRT)
+  * Sleight of hand (DEX)(pickpocketing, cheating at cards)
+  * Lying (HRT)(Bluffing at cards)
 * Strategise
-  * strategically outwit another, not necessarily just on the battlefield (e.g. chess, politicking or business)
+  * strategically outwit another, not necessarily just on the battlefield (INT)(e.g. chess, politicking or business)
 * Social
-  * Diplomacy (getting rich and important people to like you or in a formalised setting)
-  * Charm (getting common people to like you or in an informal settings)
-  * Gain Insight
-  * Commerce
+  * Diplomacy (HRT/KNO)(getting rich and important people to like you or in a formalised setting)
+  * Charm (HRT)(getting common people to like you or in an informal settings)
+  * Gain Insight (HRT)
+  * Commerce (HRT/KNO)
 * Animal handling
-  * Domestic
-  * Wild
-  * Exotic
+  * Domestic (HRT/KNO)
+  * Wild (HRT/KNO)
+  * Exotic (HRT/KNO)
 * Holy
-  * Divining (with AI communication and understanding their strange minds is an art, often left to the priests)
-  * Prayer
+  * Divining (HRT/KNO)(with AI communication and understanding their strange minds is an art, often left to the priests)
+  * Prayer (HRT/KNO)
 
 ### Intellectual
 
 * Health
-  * Medical (this is for treating illnesses, consider first aid for urgent medical aid)
+  * Medical (KNO/INT)(this is for treating illnesses, consider first aid for urgent medical aid)
 * Bookish
-  * History
-  * Lore
-  * Religion
+  * History (KNO)
+  * Lore (KNO)
+  * Religion (KNO)
 * Artistic
-  * Writing
-  * Music (for a named instrument)
-  * Visual
+  * Writing (INT)
+  * Music (DEX)(for a named instrument)
+  * Visual (DEX)
 * Problem solving
-  * Map Making
-  * Math/Science/Engineering
-  * Puzzle/Riddle/Codes
+  * Map Making (DEX)
+  * Math/Science/Engineering (INT)
+  * Puzzle/Riddle/Codes (INT)
 * Language (For non-native language, a skill is for a specific language, treat other languages at ¼ as the PC grapples with some commonality in them. Practical fluency is achieved at skill 3 and don’t make rolls for normal communication, and don’t roll at all (even for niche, technical or arcane language) at skill 5. Depending on how it is learnt, the skill might be for only reading/writing separate from speaking/listening)
-  * Common
-  * Ancient
+  * Common (KNO)
+  * Ancient (KNO)
 * Magical
-  * Artefact operate
-  * Artefact decipher
-  * Artefact maintenance
+  * Artefact operate (KNO)
+  * Artefact decipher (INT)
+  * Artefact maintenance (INT)
 
 ## Archetypes
 
@@ -254,7 +254,9 @@ The other way of gaining XP is using the study or practice downtime activities. 
 
 Are either individual or group planned or organised. During a rest, a group of PCs can prep a minor stratagem, or for downtime a PC can prep a major stratagem.
 
-... to complete ...
+### Major Stratagem
+
+### Minor Stratagem
 
 ## Opposed weaknesses
 
@@ -447,9 +449,36 @@ In both cases the diplomacy barter roll depends on the size of the request, how 
 
 ## Downtime
 
-The categories are at the GM discretion, certain actives may be undertaken in urban or rural environments just at a disadvantage.
-* Urban activities: Work profession, run an inn or shop or market, train or practice skill. Craft item, artwork, map or book. Study Artefact. Raise Heir. Network. Apply for a Guild. Run for public office. Beg. Scavenge. Explore Streets. Pickpocket or heist. Prepare Stratagem, police/guard, travelling merchant. Pray.
-* Rural: Farm (Homesteading), Shepherd, Forestry, Forage, Explore Area, Mining, Pilgrimage, Inn keeping,
+The categories are at the GM discretion, certain actives may be undertaken in urban or rural environments just at a disadvantage. Each activity can gain currency, XP, gossip or items
+* Urban activities
+  * Work profession - collect coin and XP in appropriate skill
+  * run an inn or shop or market - Learn gossip and collect coin
+  * Network - Pass Diplomacy or Charm roll to gain influence with a group
+  * Apply for a Guild - Applying may require a fee or barter or Passing a Diplomacy or Charm roll
+  * Run for public office - Pass Diplomacy or Charm roll to gain influence with a group (modify based on roleplayed speach), by the deadline the candidate with the most influence with the electors gain office.
+  * Beg - pass a charm roll to collect coins
+  * Perform - Pass a music roll
+  * Scavenge - pass an explore roll to find items
+  * Explore Streets - Pass an explore roll to learn more of the area
+  * Pickpocket or heist - Pass a sleight of hand to gain coins or items
+  * Prepare Stratagem - See relevant section for rules
+  * police/guard - Learn a gossip, or if asked by GM Pass an observation roll for a mini-encounter
+* Rural: 
+  * Farm (Homesteading) - XP in appropriate skill
+  * Shepherd - XP in appropriate skill
+  * Forestry - XP in appropriate skill
+  * Forage - Gain food/water supply
+  * Explore Area - Learn more for an area within travel distance
+  * Mining - Gain ore/stone
+  * Pilgrimage - Gossip with other travellers, prayer roll at destination
+  * Inn keeping - Learn gossip and collect coin
+* Anywhere
+  * train or practice skill - Fail a roll and gain XP equal to days passed, succeed a roll and gain a skill or talent
+  * Craft item, artwork, map or book - pass the respective craft roll to create an item (need coin or the raw materials)
+  * Study Artefact - Pass a decipher artefact roll to learn of it's function, fail and something disastrous might happen
+  * Raise Heir
+  * travelling merchant - Learn a gossip while on the road, barter to buy or sell items
+  * Pray - Pass a Prayer roll to gain favour with a god
 
 ## Artefacts
 

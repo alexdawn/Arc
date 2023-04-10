@@ -43,7 +43,7 @@ A player can come up with anything with approval from the GM for a starting item
 * Weapon: enables attack rolls with the same skill, see section
 * Armour: absorbs some damage, see section
 * Shield: improves chance of drawing duels
-* Gold coins
+* Gold coins / Silver coins
 * manacles: if you win a duel roll using the unarmed skill you put them in chains, they now have double disadvantage to rolls that use their hands.
 * smart clothes: +1 to social rolls
 * musical instrument: enables the playing of music
@@ -52,12 +52,45 @@ A player can come up with anything with approval from the GM for a starting item
 
 ## Artefacts
 
+Artefacts are vast array of powerful magical items, of all shapes and sizes. Their one commonality is they are very
+durable (probably a survivorship bias) they are often mysterious and often as dangerous to the wielder.
+
 Strengthen material, alter voice, project voice, so only select people can hear, translate language, problem-solving (siege weaponry, designing tools, buildings, logistics, accounting), lightning, metal detection, medical scans, medical treatment, cancer detection and treatments, Weak Laser, see through object, thermal vision. Strong Laser. Levitation. Invigorate human/animal/plants.
 
 | D66 | Artefact | Description |
-| 11  |          |             |
-| 12  |          |             |
-| 13  |          |             |
-| 14  |          |             |
-| 15  |          |             |
-| 16  |          |             |
+| 11  | Laser    |             |
+| 12  | project lighting |             |
+| 13  | explosive |             |
+| 14  | large explosive |             |
+| 15  | extremely large explosive | radioactive |
+| 16  | indestructible material |             |
+| 21  | Laser pointer |             |
+| 22  | Night vision|             |
+| 23  | Thermal vision|             |
+| 24  | helmet of remote sight |             |
+| 25  | x-ray vision | detect the presence of metal even within objects |
+| 26  | fire extinguisher |             |
+| 31  | project or alter voice |             |
+| 32  | light source |             |
+| 33  | recharge artefact |             |
+| 34  | levitation |             |
+| 35  | speaking box |             |
+| 36  | water purifier |             |
+| 41  | heal illness |             |
+| 42  | translate words/speech |             |
+| 43  | oxygen source |             |
+| 44  | Hologram of the previous day |             |
+| 45  | tablet or memory device |             |
+| 46  | radioactive box|             |
+| 51  | ticking box | detects dangerous magic/gases|
+| 52  | modify emotion |             |
+| 53  | send to sleep |             |
+| 54  | toxic gas |             |
+| 55  | suffocating gas |             |
+| 56  | heat/fire source |             |
+| 61  | drone familiar |             |
+| 62  | wheeled vehicle |             |
+| 63  | AI terminal |             |
+| 64  | cold source | after x time, becomes very hot |
+| 65  | navigation aid |             |
+| 66  | no obvious use or roll on special table |             |
